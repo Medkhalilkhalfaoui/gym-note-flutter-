@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1029401063260",
+    "project_id": "monster-gym",
+    "storage_bucket": "monster-gym.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029401063260:android:a2a5671e5b944cc361db99",
+        "android_client_info": {
+          "package_name": "com.example.monster_gym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029401063260-8tnerdf5vr77or8b3bgq92moglg7n0h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-CFcerqV-bqfYImeTxJim3x_YCE6od5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029401063260-8tnerdf5vr77or8b3bgq92moglg7n0h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
